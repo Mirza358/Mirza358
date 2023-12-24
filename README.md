@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+
+<a href="https://app.daily.dev/mirza_frkn"><img src="https://api.daily.dev/devcards/c122cc0537f847ad98247a26a732e672.png?r=qif" width="400" alt="Furkan Mirza's Dev Card"/></a>
 <!--
 **Mirza358/Mirza358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
